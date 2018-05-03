@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Paul's Blog
+tagline:             Google Summer of Code 2018
+url:                 http://ungps.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Paul-Sebastian Ungureanu
+  url:               https://github.com/ungps
+  email:             ungurenaupaulsebastian@gmail.com
 
 # Custom vars
 version:             2.0.0
