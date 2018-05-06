@@ -1,6 +1,8 @@
 Hello,
 
-My name is Paul (you can call me Sebi) and I am one of the Google Summer of Code 2018 participants. You can also find me on `#git-devel` Freenode IRC channel and on [GitHub](https://github.com/ungps).
+My name is Paul (you can call me Sebi) and I am one of the Google Summer of Code 2018 participants.
+
+You can find me on `#git-devel` Freenode IRC channel and on [GitHub](https://github.com/ungps). There is a good chance you will find me on IRC, considering that XChat (the client I am using) starts up at boot.
 
 My project for this summer is [Convert `git stash` to built-in](https://summerofcode.withgoogle.com/projects/#5431410714738688). The name of the title is pretty self-explanatory: at the end of the summer `git stash` is going to be 100% C (yay!). For a more thorough description of my project, please see [my proposal](https://docs.google.com/document/d/1TtdD7zgUsEOszHG5HX1at4zHMDsPmSBYWqydOPTTpV8).
 
