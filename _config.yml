@@ -32,3 +32,6 @@ gems:
   - jekyll-gist
 
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
